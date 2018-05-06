@@ -37,8 +37,6 @@
 	react-redux redux
 ### 运行
 	npm run dev
-
-	
 	
 	
 
